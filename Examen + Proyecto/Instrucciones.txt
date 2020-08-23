@@ -1,0 +1,18 @@
+Grupo 1
+
+API para hacer listas de  To Do(para hacer)
+va a tener varios users(Pueden estar quemados)
+User: 	add item
+	myList
+	mark completed
+	remove item
+	edit item
+	date item
+	finish list
+
+api/registrar/user
+api/login/juanpalotes
+
+api/user/5/list/all
+api/user/3/list/all
+api/list/all/id=5
